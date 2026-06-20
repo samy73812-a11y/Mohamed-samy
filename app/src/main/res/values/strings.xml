@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mohamed samy</string>
+    <string name="device_admin_label">حماية الكاميرا والخصوصية</string>
+    <string name="device_admin_description">صلاحية مدير الجهاز ضرورية للتحكم بتعطيل وتشغيل الكاميرا بالكامل على مستوى النظام لحماية خصوصيتك.</string>
+</resources>

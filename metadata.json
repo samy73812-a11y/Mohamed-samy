@@ -1,0 +1,6 @@
+{
+  "name": "mohamed samy",
+  "description": "تطبيق متكامل للتحكم في تشغيل وتعطيل كاميرا الهاتف، مع ميزة فحص الكاميرا في التطبيق وعرض تنبيهات أمان مخصصة عند تعطيلها.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
